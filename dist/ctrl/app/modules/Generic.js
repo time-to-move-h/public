@@ -1,0 +1,1 @@
+"use strict";define(["./callrpc"],function(i){return function(n,c,e){function t(){}return t.loadAllTags=function(n,c,e){i([e],n,c,"/backend/generic","getTags")},t}});

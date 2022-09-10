@@ -1,0 +1,53 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Signin Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Validate your account",
+        "page_lang": "en",        
+        "form_title": "Account Validation",        
+        "form_field_email": "Email",        
+        "form_field_email_placeholder": "email@example.com",
+        "form_field_code": "Verification Code",
+        "form_submit": "Validate my account",                
+        "form_success": "Subscription Successful",           
+        "form_congratulation": "Congratulations !",                
+        "form_confirm": "Your subscription has been confirmed, Authenticate yourself by clicking on <strong>Connexion<\/strong>.",        
+        "form_link_connexion": "Connexion"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! S'identifier",
+        "page_lang": "fr",        
+        "form_title": "Valider mon compte",        
+        "form_field_email": "Email",        
+        "form_field_email_placeholder": "email@exemple.com",
+        "form_field_code": "Code de verification",
+        "form_submit": "Valider mon compte",                
+        "form_success": "Inscription réussie",           
+        "form_congratulation": "Félicitations !",                
+        "form_confirm": "Votre Inscription a été confirmé. Authentifier vous en cliquant sur <strong> Connexion </ strong>.",        
+        "form_link_connexion": "Connexion"       
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Iniciar sesión",
+        "page_lang": "es",                
+        "form_title": "Validación de cuenta",        
+        "form_field_email": "Correo electrónico",     
+        "form_field_email_placeholder": "correo@ejemplo.com",
+        "form_field_code": "Código de verificación",
+        "form_submit": "Validar mi cuenta",                
+        "form_success": "Suscripción con éxito",           
+        "form_congratulation": "Felicitaciones !",                
+        "form_confirm": "Su registro ha sido confirmado. Autenticar haciendo clic en <strong> Iniciar sesión </ strong>.",        
+        "form_link_connexion": "iniciar la sesión"      
+    }    
+}

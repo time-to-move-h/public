@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Minimal Websocket Example</title>
+</head>
+<body>
+<p id="person">itest</p>
+
+
+<textarea id="messages" rows="10"></textarea>
+<br />
+<input id="inputtext" type="text" >
+<br />
+<button onclick="onSend()">Send</button>
+
+
+
+
+
+
+
+
+</body>
+
+<script>
+    // Code injected by live-server
+    var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+    //var address = protocol + window.location.host + window.location.pathname + 'http://messenger.moviao.com/private/chat/index.php';
+    //var address = 'ws://messenger.moviao.com:7999/api/messenger/v1/index.php?id_token=BD901D8E-0A89-4DFC-938C-F7BE0C302929&access_token=1234';
+
+    var address = 'ws://82.169.55.205:8887';
+    //var address = 'ws://messenger.moviao.com:8887';
+    var socket = new WebSocket(address);
+
+
+    (function() {
+
+        socket.onopen = function(e) {
+            var data = { "type" : "auth" ,"id_token" : "BD901D8E-0A89-4DFC-938C-F7BE0C302929", "access_token" : "1234" };
+            var auth = JSON.stringify(data);
+            socket.send(auth);
+        };
+
+
+
+
+        socket.onmessage = function(msg) {
+            console.log("I just got reply from server!: " + msg.data);
+
+            var msgObj = JSON.parse(msg.data);
+
+            insertMessage(msgObj.data);
+
+            //var node = document.createElement("p");                 // Create a <li> node
+            //var textnode = document.createTextNode("Reply: " + msg.data);         // Create a text node
+            //node.appendChild(textnode);
+            //document.getElementById("person").appendChild(node);
+
+
+            if (msg.data == 'reload') {
+                console.log("Reloaded!");
+            }
+        };
+        console.log('Web Socket enabled.');
+    })();
+
+    function onSend() {
+
+        var inputdata = document.getElementById("inputtext").value;
+        var data = { "type" : "chat", "from" : "BD901D8E-0A89-4DFC-938C-F7BE0C302929", "to" : "6EF5D18F-A4B5-4573-9C1D-BE3CE1F4CE1F", "data" : inputdata, "content-type": "text/plain", "datetime": new Date() };
+
+        var myJSON = JSON.stringify(data);
+        socket.send(myJSON);
+
+
+        console.log(myJSON);
+        insertMessage(inputdata);
+
+        document.getElementById('inputtext').value = ''
+    }
+
+    function insertMessage(msg) {
+        document.getElementById("messages").value += msg + "\n";
+    }
+
+
+</script>
+
+</html>
+

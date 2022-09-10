@@ -1,0 +1,1 @@
+"use strict";requirejs(["./common"],function(e){requirejs(["app/ticket_details"])});

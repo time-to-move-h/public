@@ -1,0 +1,61 @@
+{
+  "@metadata": {
+    "author": "moviao",
+    "description": "Admin Tickets",
+    "arrayGroups": {
+      "label": {
+        "en-GB": "label_en_GB",
+        "fr-BE": "label_fr_BE",
+        "es-ES": "label_es_ES"
+      }
+    }
+  },
+  "en-GB": {
+    "page_legend":"Ticket Management",
+
+    "form_view_period": "Period",
+    "form_view_name": "Name",
+    "form_view_quantity": "Quantity",
+    "form_view_price": "Price",
+    "form_view_desc": "Description",
+    "form_view_quantity_min": "Quantity minimum",
+    "form_view_quantity_max": "Quantity maximum",
+
+
+    "btn_save":"Save",
+    "btn_cancel":"Cancel",
+    "btn_create":"Create a ticket"
+  },
+  "fr-BE": {
+    "page_legend":"Gestion des tickets",
+
+    "form_view_period": "Période",
+    "form_view_name": "Nom",
+    "form_view_quantity": "Quantité",
+    "form_view_price": "Prix",
+    "form_view_desc": "Description",
+    "form_view_quantity_min": "Quantité minimum",
+    "form_view_quantity_max": "Quantité maximum",
+
+
+    "btn_save":"Enregistrer",
+    "btn_cancel":"Annuler",
+    "btn_create":"Créer un ticket"
+  }
+,
+  "es-ES": {
+    "page_legend":"Gestión de entradas",
+
+    "form_view_period": "período",
+    "form_view_name": "Nombre",
+    "form_view_quantity": "Cantidad",
+    "form_view_price": "Precio",
+    "form_view_desc": "Descripción",
+    "form_view_quantity_min": "Cantidad minima",
+    "form_view_quantity_max": "Cantidad maxima",
+
+    "btn_save":"Guardar",
+    "btn_cancel":"anular",
+    "btn_create":"Crear un ticket"
+  }
+}

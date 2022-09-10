@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envelope>
+    <From>no_reply@moviao.com</From>
+    <FromName>No Reply Moviao</FromName>
+    <ReplyTo>no_reply@moviao.com</ReplyTo>
+    <ReplyToName>No Reply Moviao</ReplyToName>
+    <Subject>Moviao: Your account is now activated !</Subject>
+    <Body>
+        <![CDATA[
+        
+        Congratulations <br>
+        Now you can log into your moviao account:<br><br>
+        Click on the link to log into your account :<br>
+        <a href="https://www.moviao.com/signin?account=%EMAIL%">Log In</a>
+         
+        ]]>        
+    </Body>
+    <AltBody></AltBody>
+</envelope> 

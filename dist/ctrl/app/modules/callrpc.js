@@ -1,0 +1,1 @@
+"use strict";define(["jquery","jquery.jsonrpcclient","popper"],(function($,rpcclient,popper){return function(form,self,callBack,url,method){try{var rpc;new $.JsonRpcClient({ajaxUrl:url}).call(method,form,(function(model){callBack(self,model)}),(function(error){callBack(self,null)}))}catch(ex){callBack(self,null)}}}));

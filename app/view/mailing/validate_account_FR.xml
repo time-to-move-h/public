@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envelope>
+    <From>no_reply@moviao.com</From>
+    <FromName>No Reply Moviao</FromName>
+    <ReplyTo>no_reply@moviao.com</ReplyTo>
+    <ReplyToName>No Reply Moviao</ReplyToName>
+    <Subject>Félicitations ! votre compte est a présent confirmé et actif</Subject>
+    <Body>
+        <![CDATA[
+        
+        Félicitations <br>
+        Maintenant vous pouvez vous connecter à votre compte moviao:
+        
+        
+        
+        Cliquez sur le lien pour vous connecter à votre compte.
+        <br> <br>
+        https://www.moviao.com/fr-BE/signin
+         
+        ]]>        
+    </Body>
+    <AltBody></AltBody>
+</envelope> 

@@ -1,0 +1,64 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Signin Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },"en-GB": {
+        "page_title": "Moviao ! Reset your account",
+        "page_lang": "en",        
+        "form_title": "Recover Password",        
+        "form_field_pwd1": "Your new password",                
+        "form_field_pwd2": "Repeat your new password",
+        "form_btn_cancel":"Cancel",
+        "form_submit": "Reset",                        
+        "form_success": "Reset password",
+        "form_congratulation": "Congratulations !",                
+        "form_confirm": "Your password has been resetted, Authenticate yourself by clicking on <strong>Connexion<\/strong>.",                
+        "form_failed": "Reset password Failed",           
+        "form_failed_subtitle": "we regret !",                
+        "form_failed_msg": "Your link is not correct, Please verify your email or try again.",       
+        "form_link_connexion": "Connexion",
+        "form_link_continue": "Continue",
+        "form_link_retry": "retry"
+    },"fr-BE": {
+        "page_title": "Moviao ! Reinitialiser son mot de passe",
+        "page_lang": "fr",        
+        "form_title": "Réinitialiser mon mot de passe",        
+        "form_field_pwd1": "Nouveau mot de passe",                
+        "form_field_pwd2": "Répeter Nouveau mot de passe",
+        "form_submit": "Réinitialiser",
+        "form_btn_cancel":"Annuler",
+        "form_success": "Réinitialisation mot de passe",
+        "form_congratulation": "Félicitations !",                
+        "form_confirm": "Votre mot de passe a été modifié. Authentifier vous en cliquant sur <strong> Connexion </ strong>.",                
+        "form_failed": "Reset password Failed",           
+        "form_failed_subtitle": "Regret !",                
+        "form_failed_msg": "Your link is not correct, Please verify your email or try again.",       
+        "form_link_connexion": "Connexion",
+        "form_link_continue": "Continuer",
+        "form_link_retry": "réessayez"
+    },"es-ES": {
+        "page_title": "Moviao ! Restablecer mi contraseña",
+        "page_lang": "es",                
+        "form_title": "Restablecer mi contraseña",        
+        "form_field_pwd1": "Su nueva contraseña",        
+        "form_field_pwd2": "Repita su contraseña nueva",                        
+        "form_submit": "Actualizar",
+        "form_btn_cancel":"cancelar",
+        "form_success": "Reinicialización contraseña",
+        "form_congratulation": "Felicitaciones !",                
+        "form_confirm": "Su cambio de contraseña ha sido confirmado. Autenticar haciendo clic en <strong> Iniciar sesión </ strong>.",                
+        "form_failed": "Reset password Failed",           
+        "form_failed_subtitle": "Regret !",                
+        "form_failed_msg": "Your link is not correct, Please verify your email or try again.",                
+        "form_link_connexion": "iniciar la sesión",
+        "form_link_continue": "Continuar",
+        "form_link_retry": "Volver a intentar"
+    }    
+}

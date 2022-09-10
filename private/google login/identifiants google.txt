@@ -1,0 +1,10 @@
+
+id client : 
+
+901321113948-afpee2ivmq2vkejf1b4t59iai6b8vcc8.apps.googleusercontent.com
+
+
+
+code secret client
+
+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

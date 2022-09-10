@@ -1,0 +1,1 @@
+"use strict";define(["jquery","jquery.jsonrpcclient"],function(l,n){return function(n,c,t,u,e){try{new l.JsonRpcClient({ajaxUrl:u}).call(e,n,function(n){t(c,n)},function(n){t(c,null)})}catch(n){t(c,null)}}});

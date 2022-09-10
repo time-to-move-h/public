@@ -1,0 +1,1 @@
+"use strict";define(["jquery","quill"],function(e,n){return function(){return{init:function(e){return new n(e,{modules:{toolbar:[["bold","italic","underline","strike"],[{header:[1,2,3,4,5,6,!1]}],["clean"]]},theme:"snow"})}}}});

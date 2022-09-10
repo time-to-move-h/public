@@ -1,0 +1,59 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Calendar Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Profil",
+        "page_lang": "en", 
+        "tab_calendar":"Calendar",
+        "tab_events":"Upcoming event",
+        "tab_channels":"Channels Subscribed",
+        "btn_attend":"Attend",        
+        "info_jumbo_events_1":"It's time to move !",
+        "info_jumbo_events_2":"You don't have any event in your calendar anymore.",
+        "info_jumbo_events_3":"Please navigate through events to try something new !",
+        "info_jumbo_events_4":"Go to Events",        
+        "info_jumbo_channels_1":"You don't have any channel in your calendar anymore.",
+        "info_jumbo_channels_2":"Please navigate through Channels to try something new !",
+        "info_jumbo_channels_3":"Go to Channels"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Profile",
+        "page_lang": "fr",             
+        "tab_calendar":"Calendrier",
+        "tab_events":"Evènements à venir",
+        "tab_channels":"Chaines",
+        "btn_attend":"Participer",        
+        "info_jumbo_events_1":"C'est le moment de bouger !",
+        "info_jumbo_events_2":"Vous n'avez plus aucun événement dans votre calendrier.",
+        "info_jumbo_events_3":"N'hesiter pas à naviguer dans les événements pour essayer quelque chose de nouveau !",
+        "info_jumbo_events_4":"Voir les événements",        
+        "info_jumbo_channels_1":"Vous n'avez plus de chaîne dans votre calendrier.",
+        "info_jumbo_channels_2":"N'hesiter pas à naviguer dans les chaînes pour essayer quelque chose de nouveau !",
+        "info_jumbo_channels_3":"Voir les chaînes"
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Profile",
+        "page_lang": "es",        
+        "tab_calendar":"Calendario",
+        "tab_events":"Evento proximo",
+        "tab_channels":"Canales Suscritos",
+        "btn_attend":"Asistir",        
+        "info_jumbo_events_1":"¡Es hora de moverse!",
+        "info_jumbo_events_2":"Ya no tienes ningún evento en tu calendario.",
+        "info_jumbo_events_3":"¡Navegue por los eventos para probar algo nuevo!",
+        "info_jumbo_events_4":"Ir a Eventos",        
+        "info_jumbo_channels_1":"Ya no tienes ningún canal en tu calendario.",
+        "info_jumbo_channels_2":"Navegue por Canales para probar algo nuevo.",
+        "info_jumbo_channels_3":"Ir a Canales"    
+    }    
+}

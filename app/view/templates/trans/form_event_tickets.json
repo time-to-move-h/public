@@ -1,0 +1,29 @@
+{
+  "@metadata": {
+    "author": "moviao",
+    "description": "Popup Client Ticket",
+    "arrayGroups": {
+      "label": {
+        "en-GB": "label_en_GB",
+        "fr-BE": "label_fr_BE",
+        "es-ES": "label_es_ES"
+      }
+    }
+  },
+  "en-GB": {
+    "page_legend":"Tickets",
+    "label_qte":"QTE :",
+    "btn_order":"Checkout"
+  },
+  "fr-BE": {
+    "page_legend":"Tickets",
+    "label_qte":"QTE :",
+    "btn_order":"Commander"
+  }
+,
+  "es-ES": {
+    "page_legend":"Billete",
+    "label_qte":"QTE :",
+    "btn_order":"Finalizar pedido"
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Moviao: Contact Us",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao: Contact Us",
+        "page_lang": "en",        
+        "form_title": "Contact Us",
+        "form_submit": "Send message",
+        "form_field_message": "Message",
+        "form_success": "Message Sent",
+        "form_congratulation": "Congratulations !",
+        "form_confirm": "Your message has been sent, please click on <strong>Continue<\/strong>.",
+        "form_failed": "Reset password Failed",
+        "form_failed_subtitle": "we regret !",
+        "form_failed_msg": "Your link is not correct, Please verify your email or try again.",
+        "form_link_connexion": "Connexion",
+        "form_link_continue": "Continue",
+        "form_link_retry": "retry"
+    },
+    "fr-BE": {
+        "page_title": "Moviao: Contact",
+        "page_lang": "fr",
+        "form_title": "Nous contacter",
+        "form_submit": "Envoyer un message",
+        "form_field_message": "Message"
+    },
+    "es-ES": {
+        "page_title": "Moviao: Contacto",
+        "page_lang": "es",
+        "form_title": "Contacta con nosotros",
+        "form_submit": "Enviar mensaje",
+        "form_field_message": "Mensaje"
+    }
+}

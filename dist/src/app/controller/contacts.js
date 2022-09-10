@@ -1,0 +1,1 @@
+requirejs(["./common"],function(a){requirejs(["app/contacts"])});

@@ -1,0 +1,56 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Payment Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Payment",
+        "page_lang": "en",        
+        "form_title": "Payment",
+        "error_unknown": "An unknown error has occurred !",
+        "transaction_status": "Status",
+        "transaction_success": "Your payment has been successful.",
+        "transaction_message": "you will receive an email with the following instructions",
+        "btn_continue": "Continue",
+
+        "btn_back": "Back to the event",
+        "transaction_failed_quantity": "There is not enough quantity, available : ",
+        "transaction_failed_paymentrefused": "Payment has been refused"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Paiement",
+        "page_lang": "fr",        
+        "form_title": "Paiement",
+        "error_unknown":"Une erreur inconnue s'est produite !",
+        "transaction_status": "Status of transaction",
+        "transaction_success": "Your payment has been successful.",
+        "transaction_message": "you will receive an email with the following instructions",
+        "btn_continue": "Continue",
+
+        "btn_back": "Back to the event",
+        "transaction_failed_quantity": "There is not enough quantity, available : ",
+        "transaction_failed_paymentrefused": "Payment has been refused"
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Pagar",
+        "page_lang": "es",                
+        "form_title": "Pagar",
+        "error_unknown":"¡Ha ocurrido un error desconocido!",
+        "transaction_status": "Status of transaction",
+        "transaction_success": "Your payment has been successful.",
+        "transaction_message": "you will receive an email with the following instructions",
+        "btn_continue": "Continue",
+
+        "btn_back": "Back to the event",
+        "transaction_failed_quantity": "There is not enough quantity, available : ",
+        "transaction_failed_paymentrefused": "Payment has been refused"
+    }    
+}

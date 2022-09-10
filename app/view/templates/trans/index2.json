@@ -1,0 +1,38 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Index Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Find upcoming events near you. see what your friends are doing, get recommendations.",
+        "page_lang": "en",        
+        "title": "Events",        
+        "msg": "Find upcoming events near you. see what your friends are doing, get recommendations.",
+        "btn_submit":"Submit",
+        "email_placeholder":"example@gmail.com"      
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Trouvez les événements à venir près de chez vous. Voyez ce que vos amis font, obtenez des recommandations.",
+        "page_lang": "fr",        
+        "title": "Evénements",        
+        "msg": "Trouvez les événements à venir près de chez vous. Voyez ce que vos amis font, obtenez des recommandations.",   
+        "btn_submit":"Envoyer",
+        "email_placeholder":"exemple@gmail.com"
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Encuentre los próximos eventos cerca de usted. Ver lo que sus amigos están haciendo, obtener recomendaciones.",
+        "page_lang": "es",                
+        "title": "Eventos",        
+        "msg": "Encuentre los próximos eventos cerca de usted. Ver lo que sus amigos están haciendo, obtener recomendaciones.",   
+        "btn_submit":"Enviar",
+        "email_placeholder":"ejemplo@gmail.com"
+    }    
+}

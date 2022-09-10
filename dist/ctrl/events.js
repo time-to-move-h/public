@@ -1,0 +1,1 @@
+requirejs(["./common"],function(e){requirejs(["app/events"])});

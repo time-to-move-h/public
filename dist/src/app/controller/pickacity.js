@@ -1,0 +1,1 @@
+"use strict";requirejs(["./common"],function(a){requirejs(["app/pickacity"])});

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envelope>
+    <From>info@moviao.com</From>
+    <FromName>Info Moviao</FromName>
+    <ReplyTo>info@moviao.com</ReplyTo>
+    <ReplyToName>Info Moviao</ReplyToName>
+    <Subject>Moviao : Recover your account !</Subject>
+    <Body>
+        <![CDATA[
+        
+        Recover your password :<br>
+        
+        <br>
+        Please Click on the link to reset your password.
+        <br><br>
+        <a href="https://www.moviao.es/en-GB/signin/recover?a=%ACCOUNT%&b=%AUTH%" target="_blank">Change my password</a>
+         
+        ]]>        
+    </Body>
+    <AltBody></AltBody>
+</envelope> 

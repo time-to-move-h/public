@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Press Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Press",
+        "page_lang": "en",
+        "context_title": "Press"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Press",
+        "page_lang": "fr", 
+        "context_title": "Press"
+    },
+    "es-ES": {
+        "page_title": "Moviao ! Press",
+        "page_lang": "es",                
+        "context_title": "Press"
+    }
+}

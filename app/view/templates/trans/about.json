@@ -1,0 +1,31 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "About Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! About",
+        "page_lang": "en",
+        "context_title": "About",
+        "context_data_1": "bW92aWFvIGlzIGFuIGV2ZW50IHBsYW5uaW5nIHBsYXRmb3JtIHRoYXQgaGVscHMgcGVvcGxlIGNyZWF0ZSwgcHJvbW90ZSBhbmQgaG9zdCB0aGVpciBldmVudHMuIFRoZSB3ZWIgYXBwIGlzIG1lYW50ICB0byBzZXJ2ZSBhcyBkaXNjb3ZlcnkgdG9vbHMgZm9yIHBlb3BsZSB3aG8gYXJlIGxvb2tpbmcgdG8gYXR0ZW5kIGV2ZW50cyB0aGV5J3JlIGludGVyZXN0ZWQgaW4uIFVzZSBpdCB0byBkaXNjb3ZlciBwb3B1bGFyIGV2ZW50cyBhcm91bmQgeW91LgoKICAgIDxicj48YnI+CiAgICA8cD4KICAgIFRoaXMgaXMgYSBiZXRhIHJlbGVhc2Ugb2YgdGhlIHByb2R1Y3QsIHZlcnkgZmFzdCByZWxlYXNlcyB3aWxsIHRha2UgcGxhY2UgZXZlcnkgd2Vlaywgd2UgYXJlIGluIGEgdGVzdGluZyBwaGFzZSwgbm90IGFsbCB0aGUgZnVuY3Rpb25hbGl0eSBhcmUgdmlzaWJsZS48YnI+PGJyPgogICAgCiAgICBTb21lIGJ1Z3MgYW5kIG1pbm9yIHVzYWJpbGl0eSBpc3N1ZXMgdXN1YWxseSBzdGlsbCBvY2N1ciwgd2hpY2ggY2FuIHRoZW4gYmUgcmVwb3J0ZWQgYnkgdGhlIHVzZXIuPGJyPjxicj4KCiAgICBXZSBhc2sgeW91IHRvIGJlIHBhdGllbnQgYmVjYXVzZSB3ZSBhcmUgbm90IGEgYmlnIGNvbXBhbnksIG9uIHRoZSBvdGhlciBoYW5kIHdlIGhhdmUgZnVsbCBmcmVlZG9tIGZvciB5b3VyIHNhdGlzZmFjdGlvbi48YnI+CgogICAgb3VyIHN0cmF0ZWd5IHRha2VzIGludG8gY29uc2lkZXJhdGlvbiB0aGUgbWFya2V0IGZlZWRiYWNrIGFuZCBpbXBsZW1lbnRzIGl0IHRvIHRoZSBwcm9kdWN0LCB0byBjcmVhdGUgdGhlIGJlc3QgdmVyc2lvbiBwb3NzaWJsZS4gCiAgICA8L3A+"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! A Propos",
+        "page_lang": "fr", 
+        "context_title": "A Propos",
+        "context_data_1": "bW92aWFvIGVzdCB1bmUgcGxhdGVmb3JtZSBkZSBwbGFuaWZpY2F0aW9uIGQnw6l2w6luZW1lbnRzIHF1aSBhaWRlIGxlcyBnZW5zIMOgIGNyw6llciwgcHJvbW91dm9pciBldCBow6liZXJnZXIgbGV1cnMgw6l2w6luZW1lbnRzLiBMJ2FwcGxpY2F0aW9uIFdlYiBlc3QgZGVzdGluw6llIMOgIHNlcnZpciBkJ291dGlscyBkZSBkw6ljb3V2ZXJ0ZSBwb3VyIGxlcyBwZXJzb25uZXMgcXVpIHNvdWhhaXRlbnQgYXNzaXN0ZXIgw6AgZGVzIMOpdsOpbmVtZW50cyBxdWkgbGVzIGludMOpcmVzc2VudC4gVXRpbGlzZXotbGEgcG91ciBkw6ljb3V2cmlyIGRlcyDDqXbDqW5lbWVudHMgcG9wdWxhaXJlcyBhdXRvdXIgZGUgdm91cy4KCiAgICAgPGJyPjxicj4KICAgICA8cD4KICAgICBJbCBzJ2FnaXQgZCd1bmUgdmVyc2lvbiBiw6p0YSBkdSBwcm9kdWl0LCBkZXMgdmVyc2lvbnMgdHLDqHMgcmFwaWRlcyBhdXJvbnQgbGlldSBjaGFxdWUgc2VtYWluZSwgbm91cyBzb21tZXMgZW4gcGhhc2UgZGUgdGVzdCwgdG91dGVzIGxlcyBmb25jdGlvbm5hbGl0w6lzIG5lIHNvbnQgcGFzIHZpc2libGVzLjxicj48YnI+CiAgICAKICAgICBDZXJ0YWlucyBidWdzIGV0IHByb2Jsw6htZXMgZCd1dGlsaXNhdGlvbiBtaW5ldXJzIHNlIHByb2R1aXNlbnQgZ8OpbsOpcmFsZW1lbnQsIHF1aSBwZXV2ZW50IGVuc3VpdGUgw6p0cmUgc2lnbmFsw6lzIHBhciBsJ3V0aWxpc2F0ZXVyLjxicj48YnI+CgogICAgIE5vdXMgdm91cyBkZW1hbmRvbnMgZCfDqnRyZSBwYXRpZW50IGNhciBub3VzIG5lIHNvbW1lcyBwYXMgdW5lIGdyYW5kZSBlbnRyZXByaXNlLCBwYXIgY29udHJlIG5vdXMgYXZvbnMgdG91dGUgbGliZXJ0w6kgcG91ciB2b3RyZSBzYXRpc2ZhY3Rpb24uPGJyPgoKICAgICBub3RyZSBzdHJhdMOpZ2llIHByZW5kIGVuIGNvbXB0ZSBsZXMgcmV0b3VycyBkdSBtYXJjaMOpIGV0IGxlcyBpbXBsw6ltZW50ZSBkYW5zIGxlIHByb2R1aXQsIHBvdXIgY3LDqWVyIGxhIG1laWxsZXVyZSB2ZXJzaW9uIHBvc3NpYmxlLgogICAgIDwvcD4="
+    },
+    "es-ES": {
+        "page_title": "Moviao ! Acerca de",
+        "page_lang": "es",                
+        "context_title": "Acerca de",
+        "context_data_1": "bW92aWFvIGVzIHVuYSBwbGF0YWZvcm1hIGRlIHBsYW5pZmljYWNpw7NuIGRlIGV2ZW50b3MgcXVlIGF5dWRhIGEgbGFzIHBlcnNvbmFzIGEgY3JlYXIsIHByb21vdmVyIHkgb3JnYW5pemFyIHN1cyBldmVudG9zLiBMYSBhcGxpY2FjacOzbiB3ZWIgZXN0w6EgZGlzZcOxYWRhIHBhcmEgc2VydmlyIGNvbW8gaGVycmFtaWVudGFzIGRlIGRlc2N1YnJpbWllbnRvIHBhcmEgbGFzIHBlcnNvbmFzIHF1ZSBidXNjYW4gYXNpc3RpciBhIGV2ZW50b3MgcXVlIGxlcyBpbnRlcmVzYW4uIMOac2VsYSBwYXJhIGRlc2N1YnJpciBldmVudG9zIHBvcHVsYXJlcyBhIHN1IGFscmVkZWRvci4KCiAgICAgPGJyPjxicj4KICAgICA8cD4KICAgICBFc3RhIGVzIHVuYSB2ZXJzacOzbiBiZXRhIGRlbCBwcm9kdWN0bywgc2UgcmVhbGl6YXLDoW4gbGFuemFtaWVudG9zIG11eSByw6FwaWRvcyBjYWRhIHNlbWFuYSwgZXN0YW1vcyBlbiB1bmEgZmFzZSBkZSBwcnVlYmEsIG5vIHRvZGFzIGxhcyBmdW5jaW9uZXMgc29uIHZpc2libGVzLjxicj48YnI+CiAgICAKICAgICBQb3IgbG8gZ2VuZXJhbCwgYcO6biBvY3VycmVuIGFsZ3Vub3MgZXJyb3JlcyB5IHByb2JsZW1hcyBtZW5vcmVzIGRlIHVzYWJpbGlkYWQsIHF1ZSBsdWVnbyBlbCB1c3VhcmlvIHB1ZWRlIGluZm9ybWFyLjxicj48YnI+CgogICAgIExlIHBlZGltb3MgcXVlIHRlbmdhIHBhY2llbmNpYSBwb3JxdWUgbm8gc29tb3MgdW5hIGdyYW4gZW1wcmVzYSwgcG9yIG90cm8gbGFkbyB0ZW5lbW9zIHBsZW5hIGxpYmVydGFkIHBhcmEgc3Ugc2F0aXNmYWNjacOzbi48YnI+CgogICAgIG51ZXN0cmEgZXN0cmF0ZWdpYSB0b21hIGVuIGNvbnNpZGVyYWNpw7NuIGxhIHJldHJvYWxpbWVudGFjacOzbiBkZWwgbWVyY2FkbyB5IGxhIGltcGxlbWVudGEgZW4gZWwgcHJvZHVjdG8sIHBhcmEgY3JlYXIgbGEgbWVqb3IgdmVyc2nDs24gcG9zaWJsZS4KICAgICA8L3A+"
+    }
+}

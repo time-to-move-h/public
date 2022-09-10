@@ -1,0 +1,77 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Header",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {      
+        "btn_conn": "Sign in",
+        "btn_create_event": "Create Event",
+        "btn_create_channel": "Create Channel",
+        "search_placeholder": "Search",        
+        "menu_calendar": "Calendar",
+        "menu_contacts": "Contacts",
+        "menu_profile": "My Profile",
+        "menu_contactus": "Contact Us",
+        "menu_dashboard": "Dashboard",
+        "menu_logout": "Logout",
+        "menu_account": "My Account",
+        "btn_menu_home":"Home",        
+        "btn_menu_trend":"Trends",        
+        "btn_menu_cat1":"Party",
+        "btn_menu_cat2":"Concerts",
+        "btn_menu_cat3":"Festival",
+        "btn_menu_cat4":"Business events",
+        "btn_menu_cat5":"Sports",        
+        "btn_menu_channels":"Browse Channels"
+    },
+    "fr-BE": {
+        "btn_conn": "connexion",
+        "btn_create_event": "Créer un évènement",
+        "btn_create_channel": "Créer une chaine",
+        "search_placeholder": "Recherche",
+        "menu_calendar": "Calendrier",
+        "menu_contacts": "Contacts",
+        "menu_profile": "Mon Profil",
+        "menu_contactus": "Contact Nous",
+        "menu_dashboard": "Dashboard",
+        "menu_logout": "Se déconnecter",
+        "menu_account": "Mon Compte",
+        "btn_menu_home":"Accueil",        
+        "btn_menu_trend":"Tendances",        
+        "btn_menu_cat1":"Soirée",
+        "btn_menu_cat2":"Concerts",
+        "btn_menu_cat3":"Festival",
+        "btn_menu_cat4":"Professionnels",
+        "btn_menu_cat5":"Sports",        
+        "btn_menu_channels":"Parcourir les chaînes"
+    }
+    ,
+    "es-ES": {
+        "btn_conn": "Iniciar sesión",
+        "btn_create_event": "Crear evento",
+        "btn_create_channel": "Crear canal",
+        "search_placeholder": "Buscar",
+        "menu_calendar": "Calendario",
+        "menu_contacts": "Contactos",
+        "menu_profile": "Mi Perfil",
+        "menu_contactus": "Contacto",
+        "menu_dashboard": "Dashboard",
+        "menu_logout": "Cerrar sesión",
+        "menu_account": "Mi Cuenta",
+        "btn_menu_home":"Inicio",        
+        "btn_menu_trend":"Tendencias",        
+        "btn_menu_cat1":"Fiesta",
+        "btn_menu_cat2":"Conciertos",
+        "btn_menu_cat3":"Festival",
+        "btn_menu_cat4":"Profesionales",
+        "btn_menu_cat5":"Deportes",   
+        "btn_menu_channels":"Buscar Canales"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Moviao: Dashboard",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao: Dashboard",
+        "page_lang": "en",        
+        "context_title": "Dashboard"
+    },
+    "fr-BE": {
+        "page_title": "Moviao: Dashboard",
+        "page_lang": "fr",
+        "context_title": "Dashboard"
+    },
+    "es-ES": {
+        "page_title": "Moviao: Dashboard",
+        "page_lang": "es",
+        "context_title": "Dashboard"
+    }
+}

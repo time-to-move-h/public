@@ -1,0 +1,29 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "404 Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! 404 Page not found",
+        "page_lang": "en",        
+        "context_title": "404"        
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! 404 Page non trouve",
+        "page_lang": "fr", 
+        "context_title": "404"                
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! 404 Pagina no encontrado",
+        "page_lang": "es",                
+        "context_title": "404"                
+    }    
+}

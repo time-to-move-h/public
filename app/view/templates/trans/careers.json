@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Careers Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Careers",
+        "page_lang": "en",
+        "context_title": "Careers"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Careers",
+        "page_lang": "fr", 
+        "context_title": "Careers"
+    },
+    "es-ES": {
+        "page_title": "Moviao ! Careers",
+        "page_lang": "es",                
+        "context_title": "Careers"
+    }
+}

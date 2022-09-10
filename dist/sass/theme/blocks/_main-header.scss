@@ -1,0 +1,120 @@
+/*------------- #MAIN-HEADER --------------*/
+
+
+.main-header {
+  padding: 70px 0 190px 0;
+  max-width: calc(100% - 140px);
+  margin: 0 auto 30px;
+  position: relative;
+  background-position: 50% 50%;
+  animation: animatedStunning 30s linear infinite;
+  -moz-animation: animatedStunning 30s linear infinite;
+  -webkit-animation: animatedStunning 30s linear infinite;
+  -o-animation: animatedStunning 30s linear infinite;
+
+
+  @keyframes animatedStunning {
+    0% {
+      background-position: 50% 50%;
+    }
+    100% {
+      background-position: 600px 50%;
+    }
+  }
+
+  /* Mozilla Firefox 5.0+ */
+  @-moz-keyframes animatedStunning {
+    0% {
+      background-position: 50% 50%;
+    }
+    100% {
+      background-position: 600px 50%;
+    }
+  }
+
+  /* Safari 4.0+, Chrome 4.0+ */
+  @-webkit-keyframes animatedStunning {
+    0% {
+      background-position: 50% 50%;
+    }
+    100% {
+      background-position: 600px 50%;
+    }
+  }
+
+  /* Opera 12.0+ */
+  @-o-keyframes animatedStunning {
+    0% {
+      background-position: 50% 50%;
+    }
+    100% {
+      background-position: 600px 50%;
+    }
+  }
+}
+
+.img-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  max-width: 100%;
+}
+
+.bg-account {
+  background-image: url("../img/top-header3.png");
+}
+
+.bg-birthday {
+  background-image: url("../img/top-header6.png");
+}
+
+.bg-badges {
+  background-image: url("../img/top-header4.png");
+}
+
+.bg-events {
+  background-image: url("../img/top-header5.png");
+}
+
+.bg-weather {
+  background-image: url("../img/top-header6.png");
+}
+
+.bg-group {
+  background-image: url("../img/bg-group.png");
+}
+
+.bg-music {
+  background-image: url("../img/top-header7.png");
+}
+
+.bg-landing {
+  background-image: url("../img/landing-bg.jpg");
+}
+
+.main-header-content {
+  color: $white-color;
+  text-align: center;
+
+  & > * {
+	color: inherit;
+  }
+
+  & > *:first-child {
+	font-weight: 300;
+	margin-bottom: 20px;
+  }
+
+  p {
+	font-weight: 400;
+	margin-bottom: 0;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .main-header {
+    max-width: 100%;
+  }
+}

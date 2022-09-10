@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envelope>
+    <From>info@moviao.com</From>
+    <FromName>Info Moviao</FromName>
+    <ReplyTo>info@moviao.com</ReplyTo>
+    <ReplyToName>Info Moviao</ReplyToName>
+    <Subject>Moviao : Beta Program subscription request</Subject>
+    <Body>
+        <![CDATA[
+        
+        Hello,<br>  
+        There is a new user for beta test,<br> 
+        
+        Email : %ACCOUNT% <br><br>
+               
+        
+        Visit https://www.moviao.com
+                 
+        ]]>        
+    </Body>
+    <AltBody>
+        Hello,
+        There is a new user for beta test,
+        
+        Email : %ACCOUNT% 
+       
+        
+        
+        Visit https://www.moviao.com 
+    </AltBody>
+</envelope> 

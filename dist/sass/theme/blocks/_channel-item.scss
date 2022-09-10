@@ -1,0 +1,22 @@
+/*------------- #CHANNEL-ITEM --------------*/
+
+.channel-item {
+  padding: 30px;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+	border-bottom: 0;
+  }
+}
+
+.channel-list {
+
+  .channel-list-title {
+	margin-bottom: 0;
+  }
+
+  .channel-list-name {
+	font-size: 0.8rem;
+	color: #9d9d9d;
+  }
+}

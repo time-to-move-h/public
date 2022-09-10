@@ -1,0 +1,32 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Order Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Order",
+        "page_lang": "en",        
+        "form_title": "Order",
+        "error_unknown": "An unknown error has occurred !"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Commande",
+        "page_lang": "fr",        
+        "form_title": "Commande",
+        "error_unknown":"Une erreur inconnue s'est produite !"
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Orden",
+        "page_lang": "es",                
+        "form_title": "Orden",
+        "error_unknown":"¡Ha ocurrido un error desconocido!"
+    }    
+}

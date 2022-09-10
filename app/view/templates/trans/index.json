@@ -1,0 +1,58 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Index Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao : Create your own events and build a community !",
+        "page_lang": "en",        
+        "title": "Create your own events and build a community",
+        "title_msg": "Create your own events and build a community !",
+        "link_login": "Log In",
+        "msg": "It's time to be the first !<br/>Join Moviao Beta program before we’re officially released<br/>Generate income by selling tickets online, membership subscriptions.<br/>Apply for early access and leave us your email above.",
+        "btn_submit":"Get early access",
+        "form_label_email":"Email :",
+        "form_label_country":"Country",
+        "email_placeholder":"example@domain.com",
+        "form_success":"Registration success !",
+        "error_exists":"Registration already done, Please verify your email information !",
+        "error_unknown":"Registration failed , Please retry later !"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Trouvez les événements à venir près de chez vous.",
+        "page_lang": "fr",        
+        "title": "Evénements",        
+        "title_msg": "Restez &agrave; l'&eacute;coute, nous lan&ccedil;ons tr&egrave;s bient&ocirc;t ...",
+        "link_login": "S'identifier",
+        "msg": "moviao BETA travaille dur pour lancer un nouveau site qui va révolutionner les événements, laissez-nous votre email ci-dessus, et nous vous informerons dès que nous ouvrirons les portes",
+        "btn_submit":"Envoyer",
+        "form_label_email":"Email",
+        "form_label_country":"Pays",
+        "email_placeholder":"exemple@domaine.com",
+        "form_success":"Vous &ecirc;tes inscrit avec succ&egrave;s !",
+        "error_exists":"vous &ecirc;tes deja inscrit !",
+        "error_unknown":"L'op&eacute;ration a &eacute;chou&eacute;, veuillez r&eacute;essayer plus tard !"
+    },
+    "es-ES": {
+        "page_title": "Moviao ! Encuentre los próximos eventos cerca de usted.",
+        "page_lang": "es",                
+        "title": "Eventos",    
+        "title_msg": "Estén atentos, estamos lanzando muy pronto ...",
+        "link_login": "iniciar sesión",
+        "msg": "moviao BETA est&aacute; trabajando arduamente para lanzar un nuevo sitio que va a revolucionar los eventos. D&eacute;jenos su correo electr&oacute;nico arriba, y le notificaremos en cuanto abramos las puertas.",
+        "btn_submit":"Enviar",
+        "form_label_email":"Email",
+        "form_label_country":"Pa&iacute;s",
+        "email_placeholder":"ejemplo@dominio.com",
+        "form_success":"Registración exitosa !",
+        "error_exists":"El registro ya está hecho, por favor verifique su información de correo electrónico!",
+        "error_unknown":"Registro fallido, por favor vuelva a intentarlo más tarde!"
+    }    
+}

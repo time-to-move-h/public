@@ -1,0 +1,62 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Channels Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Channels",
+        "page_lang": "en",        
+        "page_subtitle": "Latest Channels",        
+        "btn_subscribe": "Subscribe",
+        "btn_loadmore":"Load More ...",        
+        "btn_menu_home":"Home",
+        "btn_menu_trend":"Trends",        
+        "btn_menu_cat1":"Party",
+        "btn_menu_cat2":"Concerts",
+        "btn_menu_cat3":"Festival",
+        "btn_menu_cat4":"Business events",
+        "btn_menu_cat5":"Sports",
+        "form_nodata_title":"Oups ...",
+        "form_nodata_content":"Be patient we are in bêta !<br>We did not find any events during these criteria.<br>Do not hesitate to broaden your search."
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Chaînes",
+        "page_lang": "fr",     
+        "page_subtitle": "Dernières chaînes",        
+        "btn_subscribe": "S'abonner",
+        "btn_loadmore":"Charger Plus ...",        
+        "btn_menu_home":"Accueil",
+        "btn_menu_trend":"Tendances",        
+        "btn_menu_cat1":"Soirée",
+        "btn_menu_cat2":"Concerts",
+        "btn_menu_cat3":"Festival",
+        "btn_menu_cat4":"Professionnels",
+        "btn_menu_cat5":"Sports",
+        "form_nodata_title":"Oups ...",
+        "form_nodata_content":"Soyez patient nous sommes en version bêta !<br>Nous n'avons pas trouvé d'evenements avec ces critères.<br>N'hésitez pas a elargir votre recherche."                
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Canales",
+        "page_lang": "es",                
+        "page_subtitle": "Últimos canales",        
+        "btn_subscribe": "Suscribir",
+        "btn_loadmore":"Cargar Más ...",                
+        "btn_menu_home":"Inicio",
+        "btn_menu_trend":"Tendencias",        
+        "btn_menu_cat1":"Fiesta",
+        "btn_menu_cat2":"Conciertos",
+        "btn_menu_cat3":"Festival",
+        "btn_menu_cat4":"Profesionales",
+        "btn_menu_cat5":"Deportes",
+        "form_nodata_title":"Oups ...",
+        "form_nodata_content":"Sea paciente estamos en fase bêta !<br>No hemos encontrado ningún evento con estos criterios.<br>No dude en ampliar su búsqueda."                        
+    }    
+}

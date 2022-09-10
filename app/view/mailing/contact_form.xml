@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envelope>
+    <From>info@moviao.com</From>
+    <FromName>Info Moviao</FromName>
+    <ReplyTo>%EMAIL%</ReplyTo>
+    <ReplyToName>%NAME%</ReplyToName>
+    <Subject>Contact Message From Moviao</Subject>
+    <Body>        
+        <![CDATA[
+        
+        <p><h1>Moviao Contact Form</h1></p>
+        <hr> 
+        <p>Name : %NAME% </p>
+                
+        <p>Email : %EMAIL% </p>
+                              
+        <p>%MESSAGE%</p>
+        <br>
+        <hr>    
+                
+        [ From www.moviao.com ]
+        ]]>        
+    </Body>
+    <AltBody>        
+        Message From contact Form !
+    </AltBody>
+</envelope> 

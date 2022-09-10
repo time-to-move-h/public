@@ -1,0 +1,47 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Header",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_legend_datetime":"Date and Time",
+        "form_field_allday":"All Day",
+        "form_field_datbeg": "Start Date",
+        "form_field_datbeg_placeholder":"Put your start date and time",
+        "form_field_datend": "End Date",
+        "form_field_datend_placeholder":"Put your end date and time",
+        "form_field_zoneidbeg":"TimeZone",
+        "form_field_zoneidend":"TimeZone",
+        "btn_save":"Save"
+    },
+    "fr-BE": {
+        "page_legend_datetime":"Date and Heure",
+        "form_field_allday":"Toute la journée",
+        "form_field_datbeg": "Date et heure de début",
+        "form_field_datbeg_placeholder":"Sélectionner votre date et heure de début",
+        "form_field_datend": "Date et heure de fin",
+        "form_field_datend_placeholder":"Sélectionner votre date et heure de fin",
+        "form_field_zoneidbeg":"Fuseau Horaire",
+        "form_field_zoneidend":"Fuseau Horaire",
+        "btn_save":"Enregistrer"
+    }
+    ,
+    "es-ES": {
+        "page_legend_datetime":"Fecha y hora",
+        "form_field_allday":"Todo el dia",
+        "form_field_datbeg": "Fecha y hora de inicio",
+        "form_field_datbeg_placeholder":"Seleccione su fecha y hora de inicio",
+        "form_field_datend": "Fecha y hora de fin",
+        "form_field_datend_placeholder":"Seleccione su fecha y hora de fin",
+        "form_field_zoneidbeg":"Zona Horaria",
+        "form_field_zoneidend":"Zona Horaria",
+        "btn_save":"Guardar"
+    }
+}

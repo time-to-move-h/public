@@ -1,0 +1,47 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Contacts Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Profil",
+        "page_lang": "en", 
+        "page_subtitle":"Contacts",        
+        "btn_find":"Find new Contacts",
+        "info_nocontact":"You don't have any contact !",
+        "info_btnsearch":"Press this button to find new contacts around you !",
+        "btn_search":"Find new Contacts",
+        "search_subtitle": "Search Profile",
+        "search_input_placeholder": "Moviao ID, Nom, ..."
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Profile",
+        "page_lang": "fr",             
+        "page_subtitle":"Contacts",        
+        "btn_find":"Trouver de nouveaux contacts",
+        "info_nocontact":"Vous ne disposez pas de contacts!",
+        "info_btnsearch":"Appuyez sur le bouton pour trouver de nouveaux contacts autour de vous!",
+        "btn_search":"Trouver de nouveaux contacts",
+        "search_subtitle": "Chercher une personne",
+        "search_input_placeholder": "Moviao ID, Nom, ..."
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Profile",
+        "page_lang": "es",        
+        "page_subtitle":"Contacts",        
+        "btn_find":"Encontrar nuevas Contactos",
+        "info_nocontact":"Usted no toca ningún contacto !",
+        "info_btnsearch":"Presione este botón para buscar nuevos contactos a tu alrededor!",
+        "btn_search":"Encuentra nuevos contactos",
+        "search_subtitle": "Buscar persona",
+        "search_input_placeholder": "Moviao ID, Nom, ..."
+    }    
+}

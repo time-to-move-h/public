@@ -1,0 +1,41 @@
+name: Coverage
+
+on:
+  pull_request:
+
+  push:
+    branches: ["*"]
+
+  schedule:
+    - cron: "0 8 * * 1"
+
+jobs:
+  test80:
+    runs-on: ubuntu-latest
+    name: PHPUnit
+    steps:
+      - name: "Checkout"
+        uses: "actions/checkout@v2"
+
+      - name: "PHP"
+        uses: "contributte/.github/.github/actions/setup-php@v1"
+        with:
+          php: "8.0"
+
+      - name: "pcov"
+        run: pecl install pcov
+
+      - name: "Composer"
+        run: "composer install --prefer-dist --no-progress --no-suggest"
+
+      - name: "Run PHPUnit"
+        run: "make coverage"
+
+      - name: "Coveralls.io"
+        env:
+          CI_NAME: github
+          CI: true
+          COVERALLS_REPO_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        run: |
+          wget https://github.com/php-coveralls/php-coveralls/releases/download/v2.5.1/php-coveralls.phar
+          php php-coveralls.phar --verbose --config tests/.coveralls.yml

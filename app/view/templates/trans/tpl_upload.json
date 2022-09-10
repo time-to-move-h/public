@@ -1,0 +1,32 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Header",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "upload_title":"Upload a photo",
+        "upload_btn_select":"Select a photo ...",
+        "upload_btn_save":"Save",
+        "upload_btn_close":"Close"
+    },
+    "fr-BE": {
+        "upload_title":"Importer une photo",
+        "upload_btn_select":"Selectionnez une photo ...",
+        "upload_btn_save":"Enregistrer",
+        "upload_btn_close":"Fermer"
+    }
+    ,
+    "es-ES": {
+        "upload_title":"Sube una foto",
+        "upload_btn_select":"Selecciona una foto ...",
+        "upload_btn_save":"Guardar",
+        "upload_btn_close":"Cerrar"
+    }
+}

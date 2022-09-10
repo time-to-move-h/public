@@ -1,0 +1,37 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Moviao: Pick a city",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao: Pick a city",
+        "page_lang": "en",        
+        "context_title": "Pick a city",
+        "context_data_1": "x",
+        "form_btn_save":"Save",
+        "form_btn_cancel":"Cancel"
+    },
+    "fr-BE": {
+        "page_title": "Moviao: Pick a city",
+        "page_lang": "fr",
+        "context_title": "Pick a city",
+        "context_data_1": "x",
+        "form_btn_save":"Sauver",
+        "form_btn_cancel":"Annuler"
+    },
+    "es-ES": {
+        "page_title": "Moviao: Pick a city",
+        "page_lang": "es",
+        "context_title": "Pick a city",
+        "context_data_1": "x",
+        "form_btn_save":"Guardar",
+        "form_btn_cancel":"Cancelar"
+    }
+}

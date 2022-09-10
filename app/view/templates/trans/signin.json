@@ -1,0 +1,73 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Signin Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES" 
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Sign in",
+        "page_lang": "en",        
+        "form_title": "My Account",        
+        "form_field_account": "Email :",
+        "form_field_account_placeholder": "email@example.com",
+        "form_field_password_otp": "One-time password",
+        "form_field_password": "Password",
+        "form_submit": "Log in",
+        "form_not_member": "If you do not yet have a user name, you may Register here. ",        
+        "form_link_signup": "Log Out",
+        "form_forgot": "Forgot Password ?",        
+        "form_forgot_title": "Password Recovery",
+        "form_close": "Close",                  
+        "form_send": "Recover",
+        "error_unknown": "Account or password incorrect !",
+        "error_account_disabled": "Please check your email and validate your account ! </br> <a href=\"/signup/validation\">Verify your account here.</a>",
+        "form_recover_success": "A message has been sent to your mailbox !",
+        "form_recover_failed": "Password Recovery failed, please verify your email !"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! S'identifier",
+        "page_lang": "fr",        
+        "form_title": "Mon Compte",        
+        "form_field_account": "Email :",
+        "form_field_account_placeholder": "email@exemple.com ou 0470123456",
+        "form_field_password_otp": "Mot de passe à usage unique",
+        "form_field_password": "Mot de passe",
+        "form_submit": "Connexion",        
+        "form_not_member": "Si vous n'avez pas encore de compte utilisateur, enregistrez-vous ici.",        
+        "form_link_signup": "Inscription",        
+        "form_forgot": "Mot de passe oublié ?",
+        "form_forgot_title": "Récupération de mot de passe",                
+        "form_close": "Annuler",                  
+        "form_send": "Récupérer",
+        "error_unknown":"Compte ou mot de passe incorrect !",
+        "error_account_disabled": "Veuillez vérifier votre email et valider votre compte! </br> <a href=\"/signup/validation\">Verifiez votre compte ici.</a>",
+        "form_recover_success": "Un message a été envoyé dans votre boîte mail!",
+        "form_recover_failed": "La récupération du mot de passe a échoué, veuillez vérifier votre adresse e-mail!"
+    },
+    "es-ES": {
+        "page_title": "Moviao ! Iniciar sesión",
+        "page_lang": "es",                
+        "form_title": "Mi Cuenta",        
+        "form_field_account": "Correo electrónico :",
+        "form_field_account_placeholder": "correo@ejemplo.com",
+        "form_field_password_otp": "Contraseña de un solo uso",
+        "form_field_password": "Contraseña",
+        "form_submit": "Iniciar sesión",        
+        "form_not_member": "Si aún no tiene un nombre de usuario, puede Registrarse aquí.",        
+        "form_link_signup": "Regístrate",        
+        "form_forgot": "Se te olvidó tu contraseña ?",        
+        "form_forgot_title": "Recuperación de contraseña",               
+        "form_close": "Cerrar",                  
+        "form_send": "Recuperar",
+        "error_unknown":"Cuenta o contrasena incorrecto !",
+        "error_account_disabled": "¡Por favor revise su correo electrónico y valide su cuenta! </br> <a href=\"/signup/validation\">Verifica tu cuenta aquí.</a>",
+        "form_recover_success": "¡Se ha enviado un mensaje a su buzón!",
+        "form_recover_failed": "Falló la recuperación de contraseña, verifique su correo electrónico."
+    }    
+}

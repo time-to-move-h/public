@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envelope>
+    <From>info@moviao.com</From>
+    <FromName>Info Moviao</FromName>
+    <ReplyTo>info@moviao.com</ReplyTo>
+    <ReplyToName>Info Moviao</ReplyToName>
+    <Subject><![CDATA[ %CODE% - Connectez vous sur Moviao ! ]]> </Subject>
+    <Body>
+        <![CDATA[<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+body {
+    margin:0;
+    color:#333;
+}
+
+a {
+    text-decoration:none;
+    color:#006699;
+}
+
+p {
+    margin:0px;
+}
+
+img {
+    border:0;
+    margin:0;
+}
+
+/* container */
+#container {
+    width:540px;
+    margin:0 auto;
+}
+
+#content {
+    width:500px;
+    margin:0 20px;
+}
+
+/* header */
+#header {
+    border-bottom:1px solid #eaeaea;
+    padding-top:10px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:10px;
+}
+
+#title p{
+    font-size:20px;
+    font-family: "arial", "sans-serif";
+}
+
+#moviaoLogo{
+    width:40px;
+    height:44px;
+}
+
+/* verification msg */
+#verificationMsg {
+    padding-left:0;
+    padding-top:9px;
+    padding-bottom:9px;
+}
+
+#verificationMsg p {
+    font-size:14px;
+    font-family: "arial", "sans-serif";
+}
+
+#verificationMsg .otp {
+    font-size:18px;
+    font-weight:bold;
+    padding-top:18px;
+}
+
+/* account security */
+#accountSecurity {
+    padding-left:0;
+    padding-top:9px;
+    padding-bottom:9px;
+}
+
+#accountSecurity p {
+    font-size:14px;
+    font-family: "arial", "sans-serif";
+}
+
+/* closing */
+#closing {
+    padding-left:0;
+    padding-top:9px;
+    padding-bottom:9px;
+}
+
+#closing p {
+    font-size:14px;
+    font-family: "arial", "sans-serif";
+}
+
+    </style>
+    <title></title>
+  </head>
+  <body>
+  <table align="center" cellspacing="0" id="container" cellpadding="0">
+    <tbody>
+    <tr>
+      <td>
+        <table cellspacing="0" id="content" cellpadding="0">
+          <tbody>
+          <tr>
+            <td id="header">
+              <table cellspacing="0" cellpadding="0">
+                <tbody>
+                <tr>
+                  <td width="250" id="logo">
+                  <img src="https://www.moviao.com/img/logo40.png" id="moviaoLogo"/>
+                  </td>
+                  <td width="250" id="title" valign="top" align="right"><p></p></td>
+                </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td id="verificationMsg">
+              <p>Bonjour,<br/>vous avez été invité à saisir un code de vérification, veuillez saisir le code suivant pour terminer votre connexion.</p>
+              <p class="otp">%CODE%</p>
+              <a href="https://www.moviao.com/signin?account=%ACCOUNT%&otp=%CODE%&_csrf=%CSRF%">Se connecter a mon compte</a><br><br>
+            </td>
+          </tr>
+
+          <tr>
+            <td id="accountSecurity">
+              <!--<p><a href="https://www.moviao.com/signin/otp?account=%ACCOUNT%&code=%CODE%">Se connecter a mon compte</a></p>-->
+              <p>Ce code expirera dans 10 minutes.
+              </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td id="closing">
+              <p>Merci d'avoir visité Moviao !
+              </p>
+            </td>
+          </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  </body>
+  </html>]]>
+    </Body>
+    <AltBody></AltBody>
+</envelope> 

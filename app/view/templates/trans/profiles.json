@@ -1,0 +1,29 @@
+{
+    "@metadata": {
+        "author": "moviao",
+        "description": "Profiles Page",
+        "arrayGroups": {
+            "label": {
+                "en-GB": "label_en_GB",
+                "fr-BE": "label_fr_BE",
+                "es-ES": "label_es_ES"
+            }
+        }
+    },
+    "en-GB": {
+        "page_title": "Moviao ! Profiles",
+        "page_lang": "en",        
+        "page_subtitle": "Search Profile"
+    },
+    "fr-BE": {
+        "page_title": "Moviao ! Profiles",
+        "page_lang": "fr",     
+        "page_subtitle": "Chercher une personne"
+    }
+    ,
+    "es-ES": {
+        "page_title": "Moviao ! Profiles",
+        "page_lang": "es",                
+        "page_subtitle": "Buscar persona"        
+    }    
+}
